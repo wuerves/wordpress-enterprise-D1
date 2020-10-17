@@ -4,4 +4,4 @@
 ###**演示下载**：
 > 演示地址* https://www.54u.net/        下载地址* https://www.jv98.com/691.html#nb
 
-![wordpress响应式企业主题:enterprise-D1](https://www.jv98.com/wp-content/uploads/2020/10/dedemo121245.png)
+![wordpress响应式企业主题](https://www.jv98.com/wp-content/uploads/2020/10/dedemo121245.png)
